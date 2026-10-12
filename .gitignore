@@ -1,0 +1,24 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# SQLite databases and backups
+*.db
+*.sqlite
+*.sqlite3
+backup/
+
+# Node.js
+node_modules/
+dist/
+
+# Vercel local configuration
+.vercel/
+
+# Logs
+*.log
